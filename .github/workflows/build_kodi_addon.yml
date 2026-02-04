@@ -18,6 +18,10 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      
+      - name: Atualizar submodules para o remoto (main)
+        run: |
+          git submodule update --init --recursive --remote
 
       - name: Set up variables
         id: vars
