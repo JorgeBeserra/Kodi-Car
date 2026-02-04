@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Kodi-Car" name="Repository Kodi-Car" version="1.0.0" provider-name="JorgeBeserra">
+<addon id="repository.Kodi-Car" name="Kodi-Car Repository" version="1.0.0" provider-name="JorgeBeserra">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
@@ -11,8 +11,8 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Addon Repository Kodi-Car</summary>
-        <description>Repository for Kodi-Car and related addons</description>
+        <summary>Kodi-Car Addon Repository</summary>
+        <description>Kodi-Car Repository and related addons</description>
         <source>https://github.com/jorgebeserra/Kodi-Car/</source>
         <platform>all</platform>
         <summary lang="pt_BR">Instale Add-ons do Kodi-Car</summary>
