@@ -1,0 +1,3 @@
+[submodule "script.program.homeassistant"]
+	path = script.program.homeassistant
+	url = https://github.com/jorgebeserra/script.program.homeassistant
