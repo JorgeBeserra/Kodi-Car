@@ -1,3 +1,6 @@
 [submodule "script.program.homeassistant"]
 	path = script.program.homeassistant
 	url = https://github.com/jorgebeserra/script.program.homeassistant
+[submodule "skin.CarPc-Carbon"]
+	path = skin.CarPc-Carbon
+	url = https://github.com/jorgebeserra/skin.CarPc-Carbon
